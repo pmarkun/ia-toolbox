@@ -1,0 +1,6 @@
+streamlit
+openai
+stqdm
+tinydb
+openai-whisper
+tiktoken
